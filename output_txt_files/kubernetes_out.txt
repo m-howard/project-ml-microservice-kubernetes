@@ -1,0 +1,4 @@
+deployment.apps/ml-kube-microservice created
+NAME                                   READY   STATUS              RESTARTS   AGE
+ml-kube-microservice-d8bd558f7-5rbx9   0/1     ContainerCreating   0          0s
+service/ml-kube-microservice exposed
